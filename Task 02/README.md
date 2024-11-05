@@ -1,5 +1,8 @@
 # Image Encryption and Decryption Using RGB Channel Swapping
-This Python script demonstrates a simple method for encrypting and decrypting images by swapping the red and blue channels of the image. The encryption process is based on a simple transformation that can be reversed, making it suitable for demonstration purposes in image processing.
+This Python script demonstrates a simple method for encrypting and decrypting images by swapping the red and blue channels of the image. 
+
+The encryption process is based on a simple transformation that can be reversed, making it suitable for demonstration purposes in image processing.
+
 
 ## Features
 - Encrypts an image by swapping its red and blue RGB channels.
@@ -7,13 +10,16 @@ This Python script demonstrates a simple method for encrypting and decrypting im
 - Works with any `.jpg` image file.
 - Uses the Python `Pillow` (PIL) library for image processing.
 
+
 ## Requirements
 - Python 3.x
 - `Pillow` library
 
+
 ## Installation
 To install the required library, use the following pip command:
 pip install pillow
+
 
 ## Usage
 1. Clone or download this repository to your local machine.
@@ -26,10 +32,12 @@ pip install pillow
    - Save the encrypted image as encrypted_image.jpg.
    - Decrypt the encrypted image by swapping the channels back and save the result as decrypted_image.jpg.
 
+
 ## Example
 1. Input Image: input.jpg
 2. Encrypted Image: encrypted_image.jpg (Channels swapped)
 3. Decrypted Image: decrypted_image.jpg (Original image restored)
+
 
 ## Code Explanation
 ### Functions
@@ -42,9 +50,11 @@ pip install pillow
      - Reverses the encryption by swapping the red and blue channels back.
      - Saves the restored image at output_path.
 
+
 ## Example Flow
 1. Encryption: The red and blue channels of each pixel are swapped to encrypt the image.
 2. Decryption: The red and blue channels are swapped back to restore the original image.
+
 
 ## License
 This project is open-source and available under the MIT License.
