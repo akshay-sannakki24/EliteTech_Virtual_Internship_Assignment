@@ -31,14 +31,6 @@ This project demonstrates how to encrypt and decrypt messages using the Caesar c
 
 
 
-## Example
-Enter the message: Hello, World!
-Enter the shift value: 3
-Encrypted message: Khoor, Zruog!
-Decrypted message: Hello, World!
-
-
-
 ## Code Explanation
 #### Functions
 1. main():
