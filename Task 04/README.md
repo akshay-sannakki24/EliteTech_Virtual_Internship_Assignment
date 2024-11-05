@@ -1,6 +1,8 @@
 # Keylogger Using Python
 
-This Python script implements a simple keylogger using the `pynput` library. The keylogger captures keystrokes and logs them to a text file, allowing you to monitor keyboard input. 
+This Python script implements a simple keylogger using the `pynput` library. 
+
+The keylogger captures keystrokes and logs them to a text file, allowing you to monitor keyboard input. 
 
 > **Disclaimer:** This script is intended for educational purposes only. Unauthorized use of keyloggers is illegal and unethical. Always obtain permission before monitoring keystrokes on any system.
 
