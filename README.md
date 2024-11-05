@@ -12,16 +12,20 @@ The projects are written in Python and showcase the practical application of sec
 #### `Task 01 :  Implement Caesar Cipher`
 - Create a Python program that can encrypt and decrypt text using the Caesar Cipher algorithm.
 - Users can input a message and a shift value to perform encryption and decryption.
+
 #### `Task 02 :  Pixel Manipulation for Image Encryption`
 - Develop a simple image encryption tool using pixel manipulation.
 - The program allows users to encrypt and decrypt images by performing operations like swapping pixel values or applying basic mathematical operations to each pixel.
+
 #### `Task 03 :  Password Complexity Checker`
 - Build a tool that assesses the strength of a password based on criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters.
 - The tool provides feedback on the password's strength.
+
 #### `Task 04 :  Simple Keylogger`
 - Create a basic keylogger program that records and logs keystrokes.
 - The keylogger logs the keys pressed and saves them to a file.
 - Note: Ethical considerations and permissions are crucial for projects involving keyloggers.
+
 #### `Task 05 :  Network Packet Analyzer`
 - Develop a packet sniffer tool that captures and analyzes network packets.
 - The tool displays relevant information such as source and destination IP addresses, protocols, and payload data.
